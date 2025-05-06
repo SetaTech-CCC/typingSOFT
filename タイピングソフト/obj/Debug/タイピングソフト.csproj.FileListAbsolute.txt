@@ -1,0 +1,10 @@
+C:\Users\betan\source\repos\タイピングソフト\bin\Debug\タイピングソフト.exe.config
+C:\Users\betan\source\repos\タイピングソフト\bin\Debug\タイピングソフト.exe
+C:\Users\betan\source\repos\タイピングソフト\bin\Debug\タイピングソフト.pdb
+C:\Users\betan\source\repos\タイピングソフト\obj\Debug\タイピングソフト.csproj.AssemblyReference.cache
+C:\Users\betan\source\repos\タイピングソフト\obj\Debug\タイピングソフト.Form1.resources
+C:\Users\betan\source\repos\タイピングソフト\obj\Debug\タイピングソフト.Properties.Resources.resources
+C:\Users\betan\source\repos\タイピングソフト\obj\Debug\タイピングソフト.csproj.GenerateResource.cache
+C:\Users\betan\source\repos\タイピングソフト\obj\Debug\タイピングソフト.csproj.CoreCompileInputs.cache
+C:\Users\betan\source\repos\タイピングソフト\obj\Debug\タイピングソフト.exe
+C:\Users\betan\source\repos\タイピングソフト\obj\Debug\タイピングソフト.pdb
