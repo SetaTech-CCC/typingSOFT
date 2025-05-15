@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+
+namespace SampleApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to the C# typing practice.");
+            List<string> items = new List<string>();
+            items.Add("apple");
+            items.Add("banana");
+            items.Add("cherry");
+
+            foreach (string item in items)
+            {
+                Console.WriteLine("Item: " + item);
+            }
+
+            int total = 0;
+            for (int i = 1; i <= 5; i++)
+            {
+                total += i;
+            }
+
+            Console.WriteLine("Total is " + total);
+
+            try
+            {
+                int result = total / 0;
+                Console.WriteLine("This won't be shown.");
+            }
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("Error: Cannot divide by zero.");
+            }
+        }
+    }
+}
